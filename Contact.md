@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contacts
-permalink: /Contacts/
+title: Contact
+permalink: /Contact/
 ---
 
 This is my contacts information.
