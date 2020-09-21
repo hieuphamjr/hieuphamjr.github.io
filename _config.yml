@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to HieuPhamJR's Blog!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pham Van Hieu's Blog
+title: "Pham Van Hieu's Blog"
 email: hieuytyt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello
